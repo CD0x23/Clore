@@ -1,7 +1,7 @@
 Project LORA (List of Resources)
 ===================
 ### Table Of Contents
-
+[![forthebadge](http://forthebadge.com/images/badges/built-with-swag.svg)](http://forthebadge.com)
 
 ----------
 
