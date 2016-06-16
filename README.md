@@ -1,4 +1,4 @@
-Project LORA (List of Resources)
+Project CLORE (Curated List of Resources)
 ===================
 [![forthebadge](http://forthebadge.com/images/badges/built-with-swag.svg)](http://forthebadge.com)
 
