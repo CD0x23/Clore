@@ -20,12 +20,16 @@ This repository contains our own curated reference sources for various subjects.
  - [Network Security]()
  - [Other tech. related]()
 
+ ----------
+
 ### Machine Learning
 #### General ML
 
 #### Python
 
 #### Java
+
+----------
 
 ### General Security
 #### Basics
