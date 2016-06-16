@@ -41,6 +41,7 @@ This repository contains our own curated reference sources for various subjects.
 - [Who's Using Cyberthreat Intelligence and How?](https://www.sans.org/reading-room/whitepapers/analyst/cyberthreat-intelligence-how-35767)
 - [What is a Threat Intelligence Platform](https://www.threatconnect.com/threat-intelligence-platform-2-2/)
 - [Security information and event management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
+- [Facebook ThreatData Framework](https://www.facebook.com/notes/protect-the-graph/understanding-online-threats-with-threatdata/1438165199756960)
 
 #### Personal Security
 
