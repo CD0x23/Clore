@@ -30,6 +30,7 @@ This repository contains our own curated reference sources for various subjects.
 ### General Security
 #### Basics
 - [My First 10 Minutes On a Server](http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
+
 #### Physical Security
 
 #### Threat Intelligence
