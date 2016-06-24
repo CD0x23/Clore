@@ -37,6 +37,8 @@ This repository contains our own curated reference sources for various subjects.
 
 #### Physical Security
 - [Counter-Blade Tactics for Real World Survival](http://www.itstactical.com/warcom/knives/on-the-cutting-edge-counter-blade-tactics-for-real-world-survival/)
+
+
 #### Threat Intelligence
 - [Who's Using Cyberthreat Intelligence and How?](https://www.sans.org/reading-room/whitepapers/analyst/cyberthreat-intelligence-how-35767)
 - [What is a Threat Intelligence Platform](https://www.threatconnect.com/threat-intelligence-platform-2-2/)
